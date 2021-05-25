@@ -1,0 +1,1 @@
+void outputFile(int s0, int s1, float cMin, float dMin);

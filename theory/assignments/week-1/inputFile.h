@@ -1,0 +1,1 @@
+void inputFile(struct Plantation &p);
